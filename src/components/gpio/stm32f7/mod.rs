@@ -1,6 +1,6 @@
 //! General Purpose I/O
 
-mod mode;
+pub mod mode;
 mod input_data;
 mod output_data;
 mod bit_set_reset;
